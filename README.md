@@ -1,15 +1,22 @@
 <h1 align="center">Hello, I'm Alex Dasneves</h1>
 <h3 align="center">A Computer Science and Photonics Engineering Student at Bridgewater State University</h3>
 
-- 🔭 I’m currently working on [SAFETy Computing](https://github.com/adasneves127/SAFETy-Computer)
+- 🔭 I’m currently working on [SAFETy Computing](https://github.com/adasneves127/SAFETy-Computer), an 8-bit turing complete computer comprised of TTL logic chips.
 
-- 🔎 I’m interested in **Quantum Computing and it's applications**
+- 🔎 I’m interested in **Quantum and Optical Computing and it's applications to problems**
+  
+  Such as:
+  - The Halting Problem
+  - Cryptography Security
+  - Gene Sequencing
 
 - 👨‍💻 All of my projects are available at [https://github.com/adasneves127](https://github.com/adasneves127)
 
-- 📫 How to reach me **adasneves127@gmail.com**
+- 📫 Reach me **[here](mailto:adasneves127@gmail.com)**
 
-- ⚡ Fun fact **I want to be a professor**
+- ⚡ Fun fact I love old technology, including that which relates to infrastructure, such as
+    - Old Phone Systems
+    - Computing History, including systems dating back to the early 1960s
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
