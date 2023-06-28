@@ -12,14 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adasneves127](https://github.com/adasneves127)
 
-- 📫 Reach me **[here](mailto:adasneves127@gmail.com)**
+- 📫 Reach me **[here](mailto:adasneves127@gmail.com)** or **<a href="https://www.adasneves.info">here</a>**
 
 - ⚡ Fun fact I love old technology, including that which relates to infrastructure, such as
     - Old Phone Systems
     - Computing History, including systems dating back to the early 1960s
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
