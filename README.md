@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Alex Dasneves</h1>
-<h3 align="center">A Computer Science and Photonics Engineering Student at Bridgewater State University</h3>
+<h3 align="center">A Computer Science Student at Bridgewater State University</h3>
 
 - 🔭 I’m currently working on [SAFETy Computing](https://github.com/adasneves127/SAFETy-Computer), an 8-bit turing complete computer comprised of TTL logic chips.
 
