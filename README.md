@@ -3,20 +3,14 @@
 
 - 🔭 I’m currently working on [SAFETy Computing](https://github.com/adasneves127/SAFETy-Computer), an 8-bit turing complete computer comprised of TTL logic chips.
 
-- 🔎 I’m interested in **Quantum and Optical Computing and it's applications to problems**
-  
-  Such as:
-  - The Halting Problem
-  - Cryptography Security
-  - Gene Sequencing
-
-- 👨‍💻 All of my projects are available at [https://github.com/adasneves127](https://github.com/adasneves127)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/adasneves127?tab=repositories)
 
 - 📫 Reach me **[here](mailto:adasneves127@gmail.com)** or **<a href="https://www.adasneves.info">here</a>**
 
 - ⚡ Fun fact I love old technology, including that which relates to infrastructure, such as
     - Old Phone Systems
     - Computing History, including systems dating back to the early 1960s
+    - TRAINS
 
 
 </p>
