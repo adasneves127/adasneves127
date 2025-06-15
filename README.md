@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Shopify Liquid Rendering and Database Optimization**
 
-- 📫 How to reach me **adasneves@adasneves.info**
+- 📫 How to reach me **adasneves127@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
