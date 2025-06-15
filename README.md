@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex Dasneves</h1>
 <h3 align="center">A Computer Science Student with a knack in Backend Development</h3>
 
-- 🔭 I’m currently working on [The Club Management System](https://github.com/Computer-Science-Club-BSU/ClubManagement)
-
 - 🌱 I’m currently learning **Shopify Liquid Rendering and Database Optimization**
 
 - 📫 How to reach me **adasneves@adasneves.info**
